@@ -1,0 +1,41 @@
+h2{
+      /*color : hsl(181, 100%, 60%);*/
+      font-family : cursive;
+      line-height: 50%;
+      padding: 0px;
+      font-size: 100%;
+      margin : 0px;
+      color: violet;
+    }
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    color: greenyellow;
+    text-align: center;
+    background-color: purple;
+    padding: 0px;
+    margin : 20px;
+    
+
+}
+nav
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 170%;
+    color: greenyellow;
+    text-align: center;
+    background-color: red;
+    
+}
+body
+{
+    background-color: black;
+    padding: 0px;
+    
+}
+ul,label,footer{
+    color: white;
+    padding: 0px;
+
+}
