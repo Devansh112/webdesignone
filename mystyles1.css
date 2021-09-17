@@ -1,11 +1,15 @@
 h2{
-      /*color : hsl(181, 100%, 60%);*/
-      font-family : cursive;
-      line-height: 50%;
-    
-      font-size: 100%;
-     
-      color: violet;
+  
+    font-family : cursive;
+    line-height: 50%;
+    margin: 1px;
+    font-size: 100%;
+    padding: 5px;
+    border: blue;
+    border: solid;
+    color: blue;
+    display: inline-block;
+    text-align: left;
     }
 
 h1{
@@ -15,7 +19,8 @@ h1{
     text-align: center;
     background-color: purple;
     margin : 10px;
-    
+    border: solid;
+    color: pink;
 
 }
 nav
@@ -25,16 +30,44 @@ nav
     color: greenyellow;
     text-align: center;
     background-color: red;
-    
+    border: blue;
+    border : groove;
 }
 body
 {
     background-color: black;
     padding: 0px;
     
+    
+    
 }
-ul,label,footer{
+ul,label,footer
+{
+    color: white;
+    margin: 10px;
+
+}
+details
+{
     color: white;
     padding: 0px;
-
+    
+}
+hr
+{
+color: black;
+}
+progress
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    color: skyblue;
+    background-color: red;
+    border: blue;
+    border: solid;    
+}
+section
+{
+    width: 20%;
+    display: inline-block;
 }
