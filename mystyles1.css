@@ -2,9 +2,9 @@ h2{
       /*color : hsl(181, 100%, 60%);*/
       font-family : cursive;
       line-height: 50%;
-
+    
       font-size: 100%;
-      
+     
       color: violet;
     }
 
@@ -14,8 +14,7 @@ h1{
     color: greenyellow;
     text-align: center;
     background-color: purple;
-    padding: 10px;
-    margin : 20px;
+    margin : 10px;
     
 
 }
@@ -31,11 +30,11 @@ nav
 body
 {
     background-color: black;
-
+    padding: 0px;
     
 }
 ul,label,footer{
     color: white;
-
+    padding: 0px;
 
 }
